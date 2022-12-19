@@ -1,1 +1,1 @@
-Data analysis on UCSB Basketball team for 2022-2023 season
+Data analysis on UCSB Basketball team for 2022-23 season
