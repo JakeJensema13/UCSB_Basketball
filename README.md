@@ -1,5 +1,3 @@
-Data analysis on UCSB Basketball team 
-
 Link to article - https://dailynexus.com/2023-01-12/ucsb-mens-basketball-off-to-blazing-hot-start-with-high-powered-offense-although-attendance-continues-to-drop/
 
 BigWestStats2022-2023.csv - Stats for all mens basketball teams in the Big West confrence for 2022-23 season
